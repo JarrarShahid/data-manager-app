@@ -42,7 +42,7 @@ A Flutter application showcasing CRUD (Create, Read, Update, Delete) operations 
 ---
 
 ## 📂 Folder Structure  
-
+. ├── lib │ ├── db_helper.dart # SQLite helper class for database operations. │ ├── home_screen.dart # Main screen for displaying and managing data. │ └── main.dart # App entry point.
 ---
 
 ## 🔧 Getting Started  
