@@ -71,8 +71,10 @@ A Flutter application showcasing CRUD (Create, Read, Update, Delete) operations 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
 📧 Contact
-Your Name
-LinkedIn: 
+Jarrar Shahid
+
+LinkedIn: www.linkedin.com/in/jarrar-shahid-873503307
+
 Email: jarrarshahid@gmail.com
 
 ⭐ Acknowledgments
